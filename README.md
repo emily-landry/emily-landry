@@ -1,7 +1,6 @@
 - 👋 Heya, I’m @emily-landry
-- 🌱 I’m currently learning Data Analytics. Man is it a lot, but I am <b>loving</b> it!
-- 💞️ I’m looking to collaborate on building a Visualization dashboard portfolio
-- 📫 How to reach me? <a href="https://goldenlynx.design">click this to check out my website</a>
+- 🌐 Click <a href="https://emilylandry.co">here</a> to check out my website.
+- 🌐 Click <a href="https://linkedin.com/in/emilylandry">here</a> to check out my LinkedIn.
 
 Fun fact? I love the MCU and Disneyland!
 

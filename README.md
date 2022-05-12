@@ -1,7 +1,7 @@
 - 👋 Heya, I’m @emily-landry
 - 🌐 Click <a href="https://emilylandry.co">here</a> to check out my website.
 - 🌐 Click <a href="https://linkedin.com/in/emily-landry">here</a> to check out my LinkedIn.
-- 🌐 Click <a href="https://www.hackerrank.com/emilylandry515">here</a> to check out my HackerRank.
+- 🌐 Click <a href="https://www.hackerrank.com/emilylandry">here</a> to check out my HackerRank.
 
 Fun fact? I love the MCU and Disneyland!
 
